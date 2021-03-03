@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-size: 25px;
+    color: orange;
+}
+h2{
+    font-size: 30px;
+    color: red;
+    font-family: sans-serif;
+}
+div{
+    font-size: 14px;
+    color: rgb(140, 0, 255);
+    font-family: sans-serif;
+}
+div:hover{
+    font-size: 30px;
+    color: lightseagreen;
+    background-color: maroon;
+    transition: 8s;
+}
+.update{
+    font-size: large;
+    color: yellow;
+}
